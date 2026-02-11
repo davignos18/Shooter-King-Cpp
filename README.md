@@ -19,7 +19,7 @@ Include nemici, movimento del giocatore con animazioni base e sistema di sparo.
 - Movimenti fluidi del personaggio
 
 ### Screenshot
-![Screenshot shoter king] (screenshot_shooter_king.png)
+![Screenshot shoter king](screenshot_shooter_king.png)
 
 ### How to Play & Run
 - Usa il mouse per puntare e premi il Clic sinistro per sparare verso il cursore
